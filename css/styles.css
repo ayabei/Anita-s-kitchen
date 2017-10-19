@@ -8,14 +8,14 @@
 
 
 .first{
-	background-image: url();
+	background-color: orange;
 }
 .breakfast{
-	background-image: url();
+	background-image: url("../images/breakfast.jpg");
 }
 .lunch{
-	background-image: url();
+	background-image: url("../images/lunch.jpg");
 }
 .dinner{
-	background-image: url();
+	background-image: url("../images/dinner.jpg");
 }
