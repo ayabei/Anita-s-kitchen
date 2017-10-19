@@ -2,7 +2,20 @@
 	background-image: url("../images/landing.jpg");
 
 }
+#white {
+	color: white;
+}
 
 
-
-
+.first{
+	background-image: url();
+}
+.breakfast{
+	background-image: url();
+}
+.lunch{
+	background-image: url();
+}
+.dinner{
+	background-image: url();
+}
