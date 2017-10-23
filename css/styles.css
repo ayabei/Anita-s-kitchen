@@ -1,21 +1,42 @@
 .jumbotron{
 	background-image: url("../images/landing.jpg");
-
+	background-size: cover;
 }
 #white {
 	color: white;
 }
 
-
-.first{
+.happy-hour{
+	background-color: white;
+	background-repeat: no-repeat;
+}
+.party-time{
 	background-color: orange;
+	background-repeat: no-repeat;
+
+
+
 }
 .breakfast{
 	background-image: url("../images/breakfast.jpg");
+	background-repeat: no-repeat;
+	height: 100px;
 }
 .lunch{
 	background-image: url("../images/lunch.jpg");
+	background-repeat: no-repeat;
+	height: 100px;
+
 }
 .dinner{
 	background-image: url("../images/dinner.jpg");
+	background-repeat: no-repeat;
+	height: 100px;
+}
+.img2 {
+	margin: 100px;
+	padding: 10px;
+}
+#space {
+	margin: 100px;
 }
