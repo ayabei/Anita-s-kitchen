@@ -75,4 +75,6 @@ h1{
 }
 #subscribe{
 	background-image: url("../images/subscribe.jpg");
+	text-align: center;
+	color: white;
 }
