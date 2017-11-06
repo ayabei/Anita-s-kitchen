@@ -50,8 +50,13 @@ li a:hover {
   background-color: gainsboro;
   width:110%;
   height: 110px;
+}
 
+#toggle{
+	height: 5px;
+	z-index: 1;
 
+}
 
 }
 #party-time{
@@ -67,4 +72,7 @@ h1{
 #backgroundHead{
 	background-image: url("../images/landing.jpg");
 	background-repeat: no-repeat;
+}
+#subscribe{
+	background-image: url("../images/subscribe.jpg");
 }
