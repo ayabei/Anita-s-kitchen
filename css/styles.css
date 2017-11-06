@@ -22,27 +22,28 @@ li a {
 li a:hover {
     background-color:grey;
   }
-  .breakfast{
+  #breko{
     background-image: url(../images/breakfast.jpg);
-    padding: 0px;
+   padding:8%;
     opacity: 1.0; 
     background-size: cover;
-    height: 220px;
+    
 
   }
-  .dinner{
+  #dinner{
+  	   padding:8%;
+
     background-image: url(../images/dinner.jpg);
     background-size: cover;
-     padding:0px;
-     height: 220px;
-  
+   
 
   }
-  .lunch{
+  #lunch{
+  	  	   padding:8%;
+
     background-image: url(../images/lunch.jpg);
     background-size: cover;
-    padding:50px;
-    height: 220px;
+   
     
   }
 #happy-hour{
@@ -77,4 +78,36 @@ h1{
 	background-image: url("../images/subscribe.jpg");
 	text-align: center;
 	color: white;
+}
+#subs{
+	background-color: #F15A29;
+}
+button{
+	background-color: #F15A29;
+}
+.col-md-3{
+	color: white;
+}
+#white{
+	color: white;
+}
+#party-time{
+	background-color: #F15A29;
+	width:110%;
+  	height: 110px;
+}
+
+
+.jumbotron .slay{
+text-align: left;	
+}
+
+.footer{
+	background-color:#F15A29;
+	text-align: center;
+	padding: 20px;	
+}
+
+#img{
+	height: 20%;
 }
